@@ -1,0 +1,17 @@
+{
+  "name": "ADA PADEL Maintenance Hub",
+  "short_name": "ADA Maintenance",
+  "description": "Dashboard dan checklist maintenance ADA PADEL",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#101b2d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
